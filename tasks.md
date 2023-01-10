@@ -23,4 +23,14 @@ You can also use words, to fit your writing style more closely[^note].
 - [ ] New task 4
 - [ ] New task 5
 
+<details open>
+<summary>My top Languajes</summary>
+  
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+  
+</details>
 
